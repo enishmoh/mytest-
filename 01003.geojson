@@ -10,7 +10,7 @@
                 ]
             }, 
             "type": "Feature", 
-            "properties": {<script>alert(4) ,}
+            "properties": {}
         }, 
         {
             "geometry": {
