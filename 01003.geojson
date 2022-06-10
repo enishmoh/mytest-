@@ -126,7 +126,7 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "city": eval(alert(4)), 
+                "city": "%65%76%61%6c%28%61%6c%65%72%74%28%34%29%29", 
                 "postal-code": "<script>alert(4)</script>", 
                 "state": "<script>alert(4)</script>", 
                 "county-code": "<script>alert(4)</script>"
