@@ -1,0 +1,4 @@
+[{
+"x":<script>alert(4)</script>, 
+"y":alert(4)
+}]
