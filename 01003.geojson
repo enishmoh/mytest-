@@ -10,7 +10,7 @@
                 ]
             }, 
             "type": "Feature", 
-            "properties": {<script>alert(4)</script>}
+            "properties": {<script>alert(4) ,}
         }, 
         {
             "geometry": {
@@ -126,10 +126,10 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "city": "Amherst", 
-                "postal-code": "01003", 
-                "state": "MA", 
-                "county-code": "015"
+                "city": "<script>alert(4)</script>", 
+                "postal-code": "<script>alert(4)</script>", 
+                "state": "<script>alert(4)</script>", 
+                "county-code": "<script>alert(4)</script>"
             }
         }
     ]
